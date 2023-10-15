@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Metamorphic Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates changing underlying smart contract codes but keeping the same contract address!!... This is how the Tornado Cash Governance hack happened.
 
 Try running some of the following tasks:
 
